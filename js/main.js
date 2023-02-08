@@ -60,7 +60,7 @@ function animateParticles() {
 
   };
 
-  setInterval(randColor, 3000)
+  setInterval(randColor, 300)
 
 function name(){
   const texture = new THREE.TextureLoader().load("./assets/textures/wooden.jpg");
